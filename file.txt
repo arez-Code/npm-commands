@@ -1,0 +1,37 @@
+  All npm :
+    to see all npm :  npm ls
+    to see all npm global : npm ls -g
+
+
+  intsall and uninstall : 
+
+    for delete a npm =>  npm un (npmName)     ||      npm uninstall (npmName)
+    for install a special version of npm =>  npm i (npmName@0.0.0)
+
+
+share NPM to friend or github or npmjs.com or .... :
+    Tip1: (we dont need node_modules folder)
+
+
+Semantic Versioning NPM :
+  About the signs :
+    ^ : (for example : ^4.18.2) => that means while user download npms , program download latest version of npm  
+    ~ : (for example : ~2.19.4) => that means , when the user want to download latest of version , major and minor Semantic version must be fixed. 
+
+
+Update NPM :
+  npm version => npm outdated
+  update npms => npm update
+
+
+Security npm :
+  comprehend status and bug : npm audit
+  fix : npm audit fix
+
+
+Chache npm :
+  to see the cache : npm cache verify
+
+  delete cache : npm cache clean --force
+
+
