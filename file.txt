@@ -7,6 +7,7 @@
 
     for delete a npm =>  npm un (npmName)     ||      npm uninstall (npmName)
     for install a special version of npm =>  npm i (npmName@0.0.0)
+    for install a package in devDependencies => npm i -D (npmName)
 
 
 share NPM to friend or github or npmjs.com or .... :
